@@ -29,6 +29,8 @@
       <path value="$PROJECT_DIR$/vendor/zfcampus/zf-development-mode" />
       <path value="$PROJECT_DIR$/vendor/zendframework/zend-hydrator" />
       <path value="$PROJECT_DIR$/vendor/zendframework/zend-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-navigation" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-paginator" />
     </include_path>
   </component>
 </project>
